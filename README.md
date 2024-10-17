@@ -1,1 +1,1 @@
-# Este é meu primeiro projeto para o Gihub do Curso da EBAC de ciência de dados!
+# Este é meu primeiro projeto para o Github do Curso da EBAC de ciência de dados!
